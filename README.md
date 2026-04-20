@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adnan-bardgujar">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/adnan-bardgujar-b43b7a25b/">LinkedIn</a> •
   <a href="mailto:adnanbardgujar@gmail.com">adnanbardgujar@gmail.com</a> •
-  <a href="https://developers.google.com/profile/u/adnanbardgujar">Google Developer Profile</a>
+  <a href="https://g.dev/nan11">Google Developer Profile</a>
 </p>
 
 ---
