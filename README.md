@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adnan-bardgujar-b43b7a25b/">LinkedIn</a> •
   <a href="mailto:adnanbardgujar@gmail.com">adnanbardgujar@gmail.com</a> •
-  <a href="https://g.dev/nan11">Google Developer Profile</a>
+  <a href="https://g.dev/nan11">Google Developer</a> •
+  <a href="https://www.skills.google/public_profiles/ca8670da-f265-485c-be4e-87e5bd17f21b">Google Cloud Skills Boost — Gold League</a>
 </p>
 
 ---
@@ -37,7 +38,7 @@ Cloud                  →  GCP (Certified), AWS, OCI (Certified)
 
 ## Featured Projects
 
-### 🔍 [Minerva — AI-Powered Research Engine](https://github.com/Adnan-commits/minerva)
+### 🔍 [Minerva — AI-Powered Research Engine](https://github.com/Adnan-commits/minerva-portfolio)
 > Python · React · LLaMA 3.3 70B · MCP
 
 Full-stack research engine integrating 4 AI tools (web search, scraping, PDF extraction, summarisation) on a custom MCP server. Cut manual research time by 60%. Built a capability evaluation framework with adversarial testing, achieving **82% accuracy across multi-domain queries**.
@@ -51,7 +52,7 @@ Phishing detection combining rule-based heuristics and ML, achieving **87.8% URL
 
 ---
 
-### 🌲 [Forest Fire Prediction System](https://github.com/Adnan-commits/forest-fire-prediction)
+### 🌲 Forest Fire Prediction System
 > Python · scikit-learn
 
 Fire risk model using feature engineering and cross-validation, achieving **87% accuracy** on held-out test data. Stress-tested across edge-case environmental conditions to map reliability degradation zones.
@@ -62,11 +63,11 @@ Fire risk model using feature engineering and cross-validation, achieving **87% 
 
 | Certification | Issuer |
 |---|---|
-| Introduction to Model Context Protocol | Anthropic |
-| OCI Certified AI Foundations Associate | Oracle |
-| AWS Cloud Security Foundations & Operations | Amazon Web Services |
-| Cybersecurity Fundamentals | IBM |
-| Google Cloud Skill Boost | Google |
+| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/93hidrx557c2) | Anthropic |
+| [OCI Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D9D11AAE63B1A3A4BA24FC57E570F91756243B8302C1BB28C0E6CE3F2F80C3A3) | Oracle |
+| [AWS Cloud Security Foundations & Operations](https://www.credly.com/users/adnan-bardgujar.80f46206/badges#credly) | Amazon Web Services |
+| [Cybersecurity Fundamentals](https://www.credly.com/badges/a80345fb-4608-4769-b812-128792f18953/linked_in_profile) | IBM |
+| [Google Cloud Skill Boost — Gold League](https://www.skills.google/public_profiles/ca8670da-f265-485c-be4e-87e5bd17f21b) | Google |
 
 ---
 
