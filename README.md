@@ -17,7 +17,7 @@
 ## About Me
 
 - 🎓 BE Computer Engineering, graduating 2026 | CGPA: 8.30
-- 🔭 Currently interning at **Aiolos Cloud Solutions** — designing, evaluating, and documenting MCP tools for production AI systems
+- 🔭 Interned at **Aiolos Cloud Solutions** (Jul 2025 – Apr 2026) — designed, evaluated, and documented MCP tools for production AI systems
 - 🧠 Focused on: LLM integration, MCP server architecture, prompt engineering, and AI evaluation methodology
 - 🛠️ I don't just build AI systems — I break them first, find the failure modes, and document what production actually needs
 - 📍 Mumbai, India
