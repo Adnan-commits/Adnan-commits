@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adnan 👋</h1>
 
 <p align="center">
-  <b>Final-year Computer Engineering undergrad @ MHSSCE, Mumbai</b><br/>
+  <b>Computer Engineering undergrad @ MHSSCE, Mumbai (May 2026)</b><br/>
   Building and stress-testing AI systems end-to-end — from MCP server design to structured capability evaluations.
 </p>
 
