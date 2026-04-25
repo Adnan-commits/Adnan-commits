@@ -16,10 +16,10 @@
 
 ## About Me
 
-- 🎓 BE Computer Engineering, graduating 2026 | CGPA: 8.30
-- 🔭 Interned at **Aiolos Cloud Solutions** (Jul 2025 – Apr 2026) — designed, evaluated, and documented MCP tools for production AI systems
-- 🧠 Focused on: LLM integration, MCP server architecture, prompt engineering, and AI evaluation methodology
-- 🛠️ I don't just build AI systems — I break them first, find the failure modes, and document what production actually needs
+-  BE Computer Engineering | CGPA: 8.30
+-  Interned at **Aiolos Cloud Solutions** (Jul 2025 – Apr 2026) — architected, evaluated, and documented MCP tools for production AI systems
+-  Focused on: LLM integration, MCP server architecture, prompt engineering, and AI evaluation methodology
+-  I don't just build AI systems — I break them first, find the failure modes, and document what production actually needs
 - 📍 Mumbai, India
 
 ---
@@ -56,27 +56,6 @@ Phishing detection combining rule-based heuristics and ML, achieving **87.8% URL
 > Python · scikit-learn
 
 Fire risk model using feature engineering and cross-validation, achieving **87% accuracy** on held-out test data. Stress-tested across edge-case environmental conditions to map reliability degradation zones.
-
----
-
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/93hidrx557c2) | Anthropic |
-| [OCI Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D9D11AAE63B1A3A4BA24FC57E570F91756243B8302C1BB28C0E6CE3F2F80C3A3) | Oracle |
-| [AWS Cloud Security Foundations & Operations](https://www.credly.com/users/adnan-bardgujar.80f46206/badges#credly) | Amazon Web Services |
-| [Cybersecurity Fundamentals](https://www.credly.com/badges/a80345fb-4608-4769-b812-128792f18953/linked_in_profile) | IBM |
-| [Google Cloud Skill Boost — Gold League](https://www.skills.google/public_profiles/ca8670da-f265-485c-be4e-87e5bd17f21b) | Google |
-
----
-
-## Highlights
-
-- 🏆 **Top 30** — Unthink Ideathon, EDC x Programmers Club MHSSCE (pitched Minerva)
-- 🥈 **2nd Place** — Pitch Your Idea Competition, IEEE Cell
-- 🎙️ **Hackathon Host** — ERR 404 6.0, 36-hour national hackathon (end-to-end coordination)
-- 📄 **Paper Presentation Winner** — EDC, MHSSCE
 
 ---
 
