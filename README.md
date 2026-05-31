@@ -24,7 +24,7 @@ A terminal-themed portfolio. Type `help` once it loads, or click any of the quic
 
 ## About Me
 
-- BE Computer Engineering | CGPA: 8.30
+- BE Computer Engineering | CGPA: ~8.72
 - Interned at **Aiolos Cloud Solutions** (Jul 2025 to Apr 2026), architected, evaluated, and documented MCP tools for production AI systems
 - Focused on: LLM integration, MCP server architecture, prompt engineering, and AI evaluation methodology
 - I don't just build AI systems, I break them first, find the failure modes, and document what production actually needs
