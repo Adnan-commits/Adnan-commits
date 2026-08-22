@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Adnan 👋</h1>
-
 <p align="center">
-  <b>Computer Engineering undergrad @ MHSSCE, Mumbai (May 2026)</b><br/>
+  <b>B.E. Computer Engineering, MHSSCE, Mumbai (2026) · Open to Work</b><br/>
   Building and stress-testing AI systems end-to-end, from MCP server design to structured capability evaluations.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/adnan-bardgujar-b43b7a25b/">LinkedIn</a> •
   <a href="mailto:adnanbardgujar@gmail.com">adnanbardgujar@gmail.com</a> •
@@ -15,7 +13,6 @@
 ---
 
 ## 🖥️ Live Portfolio
-
 **[adnan-commits.github.io/portfolio](https://adnan-commits.github.io/portfolio/)** 
 
 A terminal-themed portfolio. Type `help` once it loads, or click any of the quick-access chips. Built with vanilla HTML, CSS, and JavaScript. No frameworks, no build step.
@@ -23,8 +20,8 @@ A terminal-themed portfolio. Type `help` once it loads, or click any of the quic
 ---
 
 ## About Me
-
-- BE Computer Engineering | CGPA: 8.72
+- B.E. Computer Engineering, Class of 2026 | CGPA: 8.86
+- **Open to work, available to join immediately**
 - Interned at **Aiolos Cloud Solutions** (Jul 2025 to Apr 2026), architected, evaluated, and documented MCP tools for production AI systems
 - Focused on: LLM integration, MCP server architecture, prompt engineering, and AI evaluation methodology
 - I don't just build AI systems, I break them first, find the failure modes, and document what production actually needs
@@ -33,7 +30,6 @@ A terminal-themed portfolio. Type `help` once it loads, or click any of the quic
 ---
 
 ## What I Work On
-
 ```
 LLM Integration        →  Claude, LLaMA 3.3 70B, prompt engineering, RAG pipelines
 MCP Architecture       →  Server design, tool integration, access controls, safety boundaries
